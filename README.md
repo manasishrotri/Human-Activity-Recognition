@@ -28,26 +28,26 @@ Activities per individual:
 > Logistic regression
 
 Confusion Matrix\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Test_Label\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; Test_Label\
 Y Label &nbsp;&nbsp;Moving &nbsp;&nbsp;Non-Moving\
-Moving    1609        0\
-Non Moving  0         1387
+Moving &nbsp; &nbsp; 1609  &nbsp;&nbsp;      0\
+Non Moving &nbsp;&nbsp;  0  &nbsp;&nbsp; 1387
 
 > Support vector machines
 
 Confusion Matrix \
-          Test_Label\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;  Test_Label\
 Y Label &nbsp;&nbsp; Moving &nbsp;&nbsp;Non-Moving\
-Moving    1608        1\
-Non Moving  0         1387
+Moving &nbsp;    1608   &nbsp;&nbsp;     1\
+Non Moving &nbsp; 0    &nbsp;&nbsp;     1387
 
 > Random Forest
 
 Confusion Matrix\
-          Test_Label\
-Y Label   Moving      Non-Moving\
-Moving    1609        0\
-Non Moving  0         1387
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;  Test_Label\
+Y Label &nbsp;&nbsp;   Moving   &nbsp;&nbsp;   Non-Moving\
+Moving &nbsp;&nbsp;   1609     &nbsp;&nbsp;   0\
+Non Moving &nbsp;&nbsp; 0   &nbsp;&nbsp;      1387
 
 ### Feature selection:
 > PCA
