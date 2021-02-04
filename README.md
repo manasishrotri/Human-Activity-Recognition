@@ -51,6 +51,7 @@ Non Moving &nbsp;&nbsp; 0   &nbsp;&nbsp;      1387
 
 ### Feature selection:
 > PCA
+![image](https://user-images.githubusercontent.com/60999947/106923723-5fbd1e80-66dc-11eb-812c-faa9c745f2af.png)
 
 
 ### 3. Multiclass classification
