@@ -25,33 +25,35 @@ Activities per individual:
 ![image](https://user-images.githubusercontent.com/60999947/106921490-0fdd5800-66da-11eb-8480-735a542faba2.png)
 
 ### 2. Predicting moving vs non moving activities:
-> Logistic regression\
+> Logistic regression
 
 Confusion Matrix\
-          Test_Label
-Y Label   Moving      Non-Moving
-Moving    1609        0
-Non Moving  0         1387
+          Test_Label\
+Y Label   Moving      Non-Moving\
+Moving    1609        0\
+Non Moving  0         1387\
 
 > Support vector machines
 
 Confusion Matrix \
-          Test_Label
-Y Label   Moving      Non-Moving
-Moving    1608        1
-Non Moving  0         1387
+          Test_Label\
+Y Label   Moving      Non-Moving\
+Moving    1608        1\
+Non Moving  0         1387\
 
 > Random Forest
 
-Confusion Matrix
-          Test_Label
-Y Label   Moving      Non-Moving
-Moving    1609        0
-Non Moving  0         1387
+Confusion Matrix\
+          Test_Label\
+Y Label   Moving      Non-Moving\
+Moving    1609        0\
+Non Moving  0         1387\
 
 ### Feature selection:
 > Lasso 
+
 > Ridge 
+
 > PCA
 
 ### 3. Multiclass classification
