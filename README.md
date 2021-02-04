@@ -60,6 +60,7 @@ Non Moving &nbsp;&nbsp; 0   &nbsp;&nbsp;      1387
 ![image](https://user-images.githubusercontent.com/60999947/106924599-3650c280-66dd-11eb-9fd1-8bab5141ef62.png)
 
 > Multiclass SVM:
+![image](https://user-images.githubusercontent.com/60999947/106924193-d78b4900-66dc-11eb-8236-b5c206279aae.png)
 
 ## Conclusion:
 
