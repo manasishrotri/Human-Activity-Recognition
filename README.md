@@ -59,4 +59,4 @@ Non Moving &nbsp;&nbsp; 0   &nbsp;&nbsp;      1387
 > Multinomial logistic regression:
 
 > Multiclass SVM:
-
+https://github.com/manasishrotri/Human-Activity-Recognition/issues/6#issue-801446441
