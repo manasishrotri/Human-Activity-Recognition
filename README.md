@@ -49,8 +49,8 @@ Y Label &nbsp;&nbsp;&nbsp;&nbsp;   Moving   &nbsp;&nbsp;   Non-Moving\
 Moving &nbsp;&nbsp;&nbsp;&nbsp;   1609     &nbsp;&nbsp;   0\
 Non Moving &nbsp;&nbsp; 0   &nbsp;&nbsp;      1387
 
-### Feature selection:
-> PCA
+### Feature selection using Principle Component Analysis:
+
 ![image](https://user-images.githubusercontent.com/60999947/106923723-5fbd1e80-66dc-11eb-812c-faa9c745f2af.png)
 
 
@@ -60,7 +60,6 @@ Non Moving &nbsp;&nbsp; 0   &nbsp;&nbsp;      1387
 ![image](https://user-images.githubusercontent.com/60999947/106924599-3650c280-66dd-11eb-9fd1-8bab5141ef62.png)
 
 > Multiclass SVM:
-https://github.com/manasishrotri/Human-Activity-Recognition/issues/6#issue-801446441
 
 ## Conclusion:
 
