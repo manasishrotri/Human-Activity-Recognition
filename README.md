@@ -29,24 +29,24 @@ Activities per individual:
 
 Confusion Matrix\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; Test_Label\
-Y Label &nbsp;&nbsp;Moving &nbsp;&nbsp;Non-Moving\
-Moving &nbsp; &nbsp; 1609  &nbsp;&nbsp;      0\
+Y Label &nbsp;&nbsp;&nbsp;&nbsp; Moving &nbsp;&nbsp;Non-Moving\
+Moving &nbsp; &nbsp; &nbsp;&nbsp; 1609  &nbsp;&nbsp;      0\
 Non Moving &nbsp;&nbsp;  0  &nbsp;&nbsp; 1387
 
 > Support vector machines
 
 Confusion Matrix \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;  Test_Label\
-Y Label &nbsp;&nbsp; Moving &nbsp;&nbsp;Non-Moving\
-Moving &nbsp;    1608   &nbsp;&nbsp;     1\
+Y Label &nbsp;&nbsp;&nbsp;&nbsp; Moving &nbsp;&nbsp;Non-Moving\
+Moving &nbsp;&nbsp;&nbsp;&nbsp;    1608   &nbsp;&nbsp;     1\
 Non Moving &nbsp; 0    &nbsp;&nbsp;     1387
 
 > Random Forest
 
 Confusion Matrix\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;  Test_Label\
-Y Label &nbsp;&nbsp;   Moving   &nbsp;&nbsp;   Non-Moving\
-Moving &nbsp;&nbsp;   1609     &nbsp;&nbsp;   0\
+Y Label &nbsp;&nbsp;&nbsp;&nbsp;   Moving   &nbsp;&nbsp;   Non-Moving\
+Moving &nbsp;&nbsp;&nbsp;&nbsp;   1609     &nbsp;&nbsp;   0\
 Non Moving &nbsp;&nbsp; 0   &nbsp;&nbsp;      1387
 
 ### Feature selection:
