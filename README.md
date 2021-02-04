@@ -28,18 +28,18 @@ Activities per individual:
 > Logistic regression
 
 Confusion Matrix\
-          Test_Label\
-Y Label   Moving      Non-Moving\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Test_Label\
+Y Label &nbsp;&nbsp;Moving &nbsp;&nbsp;Non-Moving\
 Moving    1609        0\
-Non Moving  0         1387\
+Non Moving  0         1387
 
 > Support vector machines
 
 Confusion Matrix \
           Test_Label\
-Y Label   Moving      Non-Moving\
+Y Label &nbsp;&nbsp; Moving &nbsp;&nbsp;Non-Moving\
 Moving    1608        1\
-Non Moving  0         1387\
+Non Moving  0         1387
 
 > Random Forest
 
@@ -47,14 +47,11 @@ Confusion Matrix\
           Test_Label\
 Y Label   Moving      Non-Moving\
 Moving    1609        0\
-Non Moving  0         1387\
+Non Moving  0         1387
 
 ### Feature selection:
-> Lasso 
-
-> Ridge 
-
 > PCA
+
 
 ### 3. Multiclass classification
 
