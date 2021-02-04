@@ -14,6 +14,7 @@ We seek to develop a human physical activity recognition model based on the UCI 
 > Checking the distribution of physical activities available in the data set
 > Eliminating activities having very few data points
 Number of observations for each activity 
+![image](https://user-images.githubusercontent.com/60999947/106921137-b412cf00-66d9-11eb-846d-bcc1171f723b.png)
 
 > Distribution of moving vs non moving activities
 
