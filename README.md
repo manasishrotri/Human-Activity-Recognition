@@ -57,6 +57,13 @@ Non Moving &nbsp;&nbsp; 0   &nbsp;&nbsp;      1387
 ### 3. Multiclass classification
 
 > Multinomial logistic regression:
+![image](https://user-images.githubusercontent.com/60999947/106924599-3650c280-66dd-11eb-9fd1-8bab5141ef62.png)
 
 > Multiclass SVM:
 https://github.com/manasishrotri/Human-Activity-Recognition/issues/6#issue-801446441
+
+## Conclusion:
+
+> Human physical activities can be recognition using Machine learning algorithms
+> We could improve human activity recognition by including more activities and incorporating additional sensors providing data such as pulse rate could potentially help increase the reliability of  human activity recognition dramatically.
+
