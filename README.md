@@ -1,4 +1,4 @@
-# Human Activity Recognition using Smartphone data
+# Human Activity Recognition using smartphone data
 ## Goal: 
 We seek to develop a human physical activity recognition model based on the UCI Machine learning [Human Activity Recognition dataset ](https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
